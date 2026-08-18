@@ -2,13 +2,13 @@
 <p><img src="https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png" alt="Top of pokeball"></p>
 <details>
 <summary>Open profile</summary>
-<p><br></p>
+<p style="margin:4px 0 0 0;"><br></p>
 <div>
-  <div align="center">
-      <img height="200" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://user-images.githubusercontent.com/44261381/209237088-3bbb1512-7486-4c36-afd8-bb60077d067b.png">
+  <div align="center" style="margin-top:-6px;">
+      <img height="300" alt="Ahzam sticker" src="./img/sticker_ahzam.png">
   </div>
   <div align="center">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&amp;size=35&amp;duration=3500&amp;pause=300&amp;color=A89568&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Hey%2C+I'm+ahZam+riZvi;Welcome+to+my+profile!;Description+of+myself%3A;Full+Stack+Developer;AI+enthusiast;Perfectionist;Confident+and+ambitious;COD+Digital+Soldier" alt="Typing SVG"></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&amp;size=35&amp;duration=3500&amp;pause=300&amp;color=A89568&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Hey%2C+I'm+ahZam+riZvi;Welcome+to+my+profile!;I'm+a;Full+Stack+Developer;AI+enthusiast;Perfectionist;Confident+and+ambitious;COD+Digital+Soldier" alt="Typing SVG"></a>
   </div>
 </div>
 <details>
@@ -17,30 +17,20 @@
 <table align="center" style="margin:0 auto; width:100%; max-width:900px;">
   <tr>
     <td width="50%" valign="top" align="center">
+      <div style="display:flex;flex-direction:column;gap:14px;align-items:center;">
       <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-67D4FF?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
-      <br><br>
       <img src="https://img.shields.io/badge/Languages-English%20%7C%20Hindi-A89568?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Languages">
-      <br><br>
       <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-1abc9c?style=for-the-badge&logo=stackshare&logoColor=white" alt="Role">
-      <br><br>
       <img src="https://img.shields.io/badge/Specialization-Full--Stack%20Web%20Development-24292e?style=for-the-badge&logo=webflow&logoColor=white" alt="Specialization">
+      </div>
     </td>
     <td width="50%" valign="top" align="center">
+      <div style="display:flex;flex-direction:column;gap:14px;align-items:center;">
       <img src="https://img.shields.io/badge/Interests-AI%20%7C%20Web%20Development%20%7C%20Problem%20Solving-EA4335?style=for-the-badge&logo=brainly&logoColor=white" alt="Interests">
-      <br><br>
       <img src="https://img.shields.io/badge/Hobbies-Gaming%20%7C%20Coding%20%7C%20Exploring%20Technology-111827?style=for-the-badge&logo=steam&logoColor=white" alt="Hobbies">
-      <br><br>
       <img src="https://img.shields.io/badge/Education-Pursuing%20MCA%20%7C%20Manipal%20University%20Jaipur-8e7e57?style=for-the-badge&logo=graduationcap&logoColor=white" alt="Education">
-      <br><br>
       <img src="https://img.shields.io/badge/Bachelors-B.Com%20%7C%20University%20of%20Lucknow-0A66C2?style=for-the-badge&logo=university&logoColor=white" alt="Bachelors">
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <img src="https://img.shields.io/badge/Strength-Self%20Learner%20%2F%20Quick%20Adaptive-22c55e?style=for-the-badge&logo=target&logoColor=white" alt="Strength">
-    </td>
-    <td width="50%" valign="top" align="center">
-      <img src="https://img.shields.io/badge/Weakness-Perfectionist-f59e0b?style=for-the-badge&logo=sparkles&logoColor=white" alt="Weakness">
+      </div>
     </td>
   </tr>
 </table>
